@@ -1,5 +1,6 @@
 This is a sample file for testing branch operations
 Additional changes in master node
+05MAY2020:1258:TOL103 Changes
 More changes with commit notes.
 <<<<<<< HEAD
 Adding hot fix changes(HFIX101)
