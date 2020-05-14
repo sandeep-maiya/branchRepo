@@ -4,11 +4,12 @@ More changes with commit notes.
 <<<<<<< HEAD
 Adding hot fix changes(HFIX101)
 =======
-
+05MAY2020:1259:HFIX103 Change-1
 Changes made as part of TOL defect 101
 
 Additional changes in TOL defect 101
 >>>>>>> TOL101
+05MAY2020:1259:HFIX103 Change-2
 <<<<<<< HEAD
 05MAY2020:1251:HFIX102 Change
 =======
