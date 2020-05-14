@@ -1,6 +1,4 @@
 This is a sample file for testing branch operations
 Additional changes in master node
 More changes with commit notes.
-
-
 Adding hot fix changes(HFIX101)
