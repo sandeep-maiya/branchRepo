@@ -1,4 +1,11 @@
 This is a sample file for testing branch operations
 Additional changes in master node
 More changes with commit notes.
+<<<<<<< HEAD
 Adding hot fix changes(HFIX101)
+=======
+
+Changes made as part of TOL defect 101
+
+Additional changes in TOL defect 101
+>>>>>>> TOL101
